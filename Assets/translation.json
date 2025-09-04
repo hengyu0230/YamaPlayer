@@ -310,7 +310,7 @@
         "videoPlayer": "影片播放系統",
         "videoPlayerDesc": "UnityVideoPlayer : 僅能播放非直播的影片。\nAVProVideoPlayer : 可播放 YouTube、twitch 的直播以及非直播的影片。",
         "playbackSpeed": "播放速度",
-        "playbackSpeedDesc": "以 0.05x 為單位在 0.05x 到 2.0x 範圍內調整影片播放速度，\n影片播放器為 AVPro Video Player 時，影片會在修改速度後重新載入。",
+        "playbackSpeedDesc": "以 0.05x 為單位在 0.1x 到 2.0x 範圍內調整影片播放速度，\n影片播放系統為 AVPro Video Player 時，影片會在修改速度後重新載入。",
         "slower": "最慢0.1x",
         "faster": "最快2.0x",
         "repeatPlay": "區間循環播放",
